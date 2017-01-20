@@ -1,6 +1,6 @@
 # Articles by Matt Starr
 
-This is a list of recent articles I wrote whilst working at <a ref="https://www.laundrapp.com/">Laundrapp</a>, an on demand laundry and dry cleaning app. They cover a range of topics including cleaning, clothing, tech, events and more.
+This is a list of recent articles I wrote whilst working at <a ref="https://www.laundrapp.com/">Laundrapp</a>, an on demand laundry and dry cleaning app. These articles cover a range of topics including cleaning, clothing, tech, events and more.
 
 Happy reading!
 
